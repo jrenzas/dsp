@@ -53,7 +53,7 @@ Here's your first chance to practice this:
 
 ###Q1. Emoji
 
-What is your favorite [emoji](http://www.emoji-cheat-sheet.com/)?
+What is your favorite [emoji](:no_mouth:)?
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
